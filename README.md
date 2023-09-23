@@ -1,4 +1,8 @@
 ### Hi there 👋
+- 👨🏻‍💻I’m @iskifogl
+- 👀 interested in cloud and sre technologies
+- 🌱 currently learning different tooling focused on devops, cloud and sre and develop myself
+
 
 <!--
 **iskifogl/iskifogl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
