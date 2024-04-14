@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 👨🏻‍💻I’m @iskifogl
-- 👀 interested in cloud and sre technologies
+- 👀 interested in devops and cloud technologies
 - 🌱 currently learning different tooling focused on devops, cloud and sre and develop myself
 
 
