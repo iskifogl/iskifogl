@@ -1,8 +1,8 @@
 ### Hi there 👋
-- 👨🏻‍💻I’m @iskifogl
-- 👀 interested in devops and cloud technologies
-- 🌱 currently learning different tooling focused on devops, cloud, js and develop myself
-
+- 👨🏻‍💻 I’m @iskifogl
+- 🌐 Passionate about DevOps, Cloud, and Full-Stack Development
+- 🛠️ Experienced with **Supabase**, **Vercel**, **Node.js**, **Express**, **TypeScript**, **React Native**, **AWS**, **Kubernetes** and more
+- 🌱 Currently expanding my skills in cutting-edge DevOps tools, cloud tech, and JavaScript frameworks
 
 <!--
 **iskifogl/iskifogl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
